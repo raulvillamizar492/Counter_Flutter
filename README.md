@@ -1,6 +1,7 @@
-# Udemy Curse
+# Contador En Flutter
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Una pequeña aplicacion en Flutter de un contador.
+
 
 ## Getting Started
 
